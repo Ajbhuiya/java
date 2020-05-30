@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="chromedriver_win32 (1)">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/chromedriver_win32 (1).zip!/" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" recursive="false" type="SOURCES" />
+  </library>
+</component>

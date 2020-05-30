@@ -1,0 +1,47 @@
+<component name="libraryTable">
+  <library name="selenium-java-3.141">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" />
+      <root url="file://$USER_HOME$/Downloads/chromedriver_win32 (1)" />
+      <root url="file://$USER_HOME$/Downloads/chromedriver_win32" />
+      <root url="jar://$USER_HOME$/Downloads/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3.141.59 (1)" />
+      <root url="file://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/lib" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-examples-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-excelant-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-ooxml-schemas-4.1.2.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/poi-scratchpad-4.1.2.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/curvesapi-1.06.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib/xmlbeans-3.1.0.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/testng-6.14.3.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/MySQL-Driver-0.1.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jdbc-driver-1.0.54.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-odbc-noinstall-8.0.20-winx64.zip!/" />
+      <root url="jar://$USER_HOME$/Downloads/commons-io-2.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" />
+      <root url="file://$USER_HOME$/Downloads/selenium-java-3.141.59 (1)" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/build/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/demo/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/generated/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/legacy/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/main/core-api/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/main/core-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/main/protocol-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/main/user-api/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/main/user-impl/java" />
+      <root url="file://$USER_HOME$/Downloads/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/poi-bin-4.1.2-20200217/poi-4.1.2/ooxml-lib" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3.141.59 (1)" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3.141.59" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$USER_HOME$/Downloads/selenium-java-3.141.59 (1)" recursive="false" type="SOURCES" />
+  </library>
+</component>
