@@ -1,3 +1,0 @@
-hello world
-my name is aj
-this is my java programming
